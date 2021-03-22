@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Srikar Jilugu</title>
-    <link>https://srikarj.netlify.app/project/</link>
-      <atom:link href="https://srikarj.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://always-newbie161.github.io/project/</link>
+      <atom:link href="https://always-newbie161.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Mar 2021 13:47:45 +0000</lastBuildDate>
     <image>
-      <url>https://srikarj.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://always-newbie161.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://srikarj.netlify.app/project/</link>
+      <link>https://always-newbie161.github.io/project/</link>
     </image>
     
     <item>
       <title>Long Night</title>
-      <link>https://srikarj.netlify.app/project/example/</link>
+      <link>https://always-newbie161.github.io/project/example/</link>
       <pubDate>Mon, 22 Mar 2021 13:47:45 +0000</pubDate>
-      <guid>https://srikarj.netlify.app/project/example/</guid>
+      <guid>https://always-newbie161.github.io/project/example/</guid>
       <description>&lt;p&gt;This project is a &lt;strong&gt;desktop application&lt;/strong&gt; game named “Long Night” which is like a clone to the vintage &lt;strong&gt;Space Invaders&lt;/strong&gt; with a different theme.It is made using &lt;strong&gt;Java Programming language&lt;/strong&gt; by using &lt;strong&gt;JavaFX&lt;/strong&gt; library.&lt;/p&gt;
 &lt;p&gt;It’s a battle between &lt;strong&gt;United knights&lt;/strong&gt; and the &lt;strong&gt;dangerous wights.&lt;/strong&gt; The wights lead by &lt;strong&gt;Nightking&lt;/strong&gt; tries to invade the whole Westeros(the humans land).&lt;/p&gt;
 &lt;hr&gt;
